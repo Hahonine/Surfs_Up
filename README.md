@@ -16,7 +16,7 @@ The purpose of this analysis was to determine the best time of year to go to Haw
 - The temperature ranged from 56 F to 83 F over the 6 years.
 - Typical temperature was around 71F.
 
-![December Stats](/Images/Dec_Temperature_Stats.png "December Stats")
+![December Stats](/Images/December_Temperature_Stats.png "December Stats")
 
 
 ## Summary
