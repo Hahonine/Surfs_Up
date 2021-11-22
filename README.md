@@ -9,14 +9,14 @@ The purpose of this analysis was to determine the best time of year to go to Haw
 - The temperature ranged from 64 F to 85 F over the 6 years.
 - Typical temperature was around 75F.
 
-![June Stats](/Images/June_Temperature_Stats.png "Title")
+![June Stats](/Images/June_Temperature_Stats.png "June Stats")
 
 #### December Results
 - 1517 measurements were analyzed for June from 2010 to 2015.
 - The temperature ranged from 56 F to 83 F over the 6 years.
 - Typical temperature was around 71F.
 
-![December Stats](/Images/Dec_Temperature_Stats.png" "Title")
+![December Stats](/Images/Dec_Temperature_Stats.png "December Stats")
 
 
 ## Summary
